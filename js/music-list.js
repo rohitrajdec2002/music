@@ -11,38 +11,38 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "ＥＬＡ　ＭＯＲＡ　ＮＯ　ＭＥＵ　ＰＥＩＴＯ",
+    artist: "Fooly Cooly",
     img: "music-1",
     src: "music-1"
   },
   {
     name: "Here and There-Aujla",
-    artist: "Audio Library",
+    artist: "Karan-Aujla",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "Sigma Male Theme INSTRUMENTAL",
+    artist: "Nightshift TV",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Desires (Instrumental)  ",
+    artist: " Ap Dhillon | Gurinder Gill",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
+    name: "Gangsta's Paradise",
+    artist: "Strange Fruits",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "Bad Boy - Marwa Loud (Lyrics) 🎵",
+    artist: "Marwa Loud",
     img: "music-6",
     src: "music-6"
   },
